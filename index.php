@@ -21,7 +21,7 @@
         This script allows you to generate a proper IOTA seed and allows you to encrypt the seed and set a password for decryption.<br />
         May a good idea to backup it this way or in case you want to send a seed via email.<br /><br />
 
-        Download the files direct from the Github Repo <a href="https://github.com/blumanski/iota-secure-seed-generator" title="https://github.com/blumanski/iota-secure-seed-generator">
+        Download the files direct from the Github Repo <a href="https://github.com/blumanski/iota-seed-encrypter-generator-decrypter" title="https://github.com/blumanski/iota-seed-encrypter-generator-decrypter">
           The Github Repo
         </a>
         <br /><br />
