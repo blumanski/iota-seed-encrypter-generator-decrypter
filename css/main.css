@@ -1,0 +1,88 @@
+body {
+  font-size: 14px;
+  font-family: arial, verdana, serif;
+}
+
+a {
+  color: #333;
+}
+
+div.main {
+  margin: 0 auto;
+  max-width: 1024px;
+  min-width: 380px;
+  min-height: 500px;
+  padding: 10px;
+}
+
+div.main h3 {
+  color: #555;
+  font-size: 16px;
+}
+
+div.main div.output {
+  padding-bottom: 25px;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+div.main div.desc {
+  margin-bottom: 25px;
+  color: #333;
+  background: #efefef;
+  padding: 4px 10px 10px 10px;
+}
+
+div.main div.why {
+  margin-bottom: 25px;
+  color: #000;
+  background: #efefef;
+  padding: 10px;
+}
+
+div.main div.usage {
+  margin-bottom: 25px;
+  color: #fff;
+  background: #efefef;
+  padding: 10px;
+}
+
+div.main div.usage a {
+  color: #efefef;
+}
+
+div.main .messenger {
+  background: #f4b841;
+  padding: 10px;
+}
+
+div.main .messenger.true {
+  background: #d4f442;
+  padding: 10px;
+}
+
+div.main form {
+  margin-top: 25px;
+  margin-bottom: 20px;
+  display: block;
+  border-bottom: 1px solid #cdcdcd;
+}
+
+div.main form .form-block {
+  margin: 15px;
+}
+
+div.main form .form-block input[type='password'],
+div.main form .form-block input[type='text'] {
+  width: 200px;
+  padding: 8px;
+  margin-bottom: 10px;
+}
+
+div.main form .form-block input[type='submit'] {
+  padding: 8px;
+  cursor: pointer;
+}
+
+div.main form .form-block input.long-field {
+  width: 500px;
+}
