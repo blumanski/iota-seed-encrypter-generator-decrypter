@@ -59,6 +59,8 @@
       <p>
         This site does not secretly collect any personally identifiable information.
         I don't monitor submissions, I don't keep records of any sort.</p>
+
+        Oliver Blum -> https://github.com/blumanski
       </div>
   </div>
 
